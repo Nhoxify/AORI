@@ -12,10 +12,10 @@
 
 
 
-### SMART LIGHTING ALLIANCE (SLA). "Lifi (light fidelity)" [en ligne]. In *Smart Lighting Alliance (SLA) - La communication par la lumière*. 2016 (consulté le 24 mai 2019). Disponible sur le Web : [http://smartlightingalliance.org/definition-life-light-fidelity/]
+### SMART LIGHTING ALLIANCE (SLA). "Lifi (light fidelity)" [en ligne]. In *Smart Lighting Alliance (SLA) - La communication par la lumière*. 2016 (consulté le 24 mai 2019). Disponible sur le Web : http://smartlightingalliance.org/definition-life-light-fidelity/
 
 
-![Définition de la SLA](http://zupimages.net/viewer.php?id=19/21/h5s1.png)
+![Définition du département physique de la faculté des sciences de l'ULB](https://zupimages.net/up/19/21/h5s1.png)
 
 
 
