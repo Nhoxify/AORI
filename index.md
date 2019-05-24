@@ -1,6 +1,6 @@
 # Le Li-Fi 
 
-Ce dossier documentaire 
+Ce dossier documentaire présente la technologie du Li-Fi (Light-Fidelity) sur base de documents disponible sur le Web.
 
 
 1. Introduction
