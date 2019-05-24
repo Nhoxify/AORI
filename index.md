@@ -3,7 +3,7 @@
 Ce dossier documentaire présente la technologie du Li-Fi (Light-Fidelity) sur base de documents disponibles sur le Web.
 Il 
 
-1. [Définition](https://sciences.brussels/printemps/download/dossier_peda_2017/le-li-fi.pdf) 
+1. [Définition](definitions.md) 
 2. Corps de texte
 
 
