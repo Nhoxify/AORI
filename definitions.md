@@ -1,14 +1,14 @@
 ## Vous êtes ici
 
 [Accueil](index.md)
-1. **Définitions**
+1. **Définition**
 2. Ma deuxième classe
       1. Une sous-classe
       2. Une seconde sous-classe
       3. ...
 
 
-## Définitions
+## Définition
 
 
 
