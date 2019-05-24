@@ -4,8 +4,8 @@ Ce dossier documentaire présente la technologie du Li-Fi (Light-Fidelity) sur b
 Il 
 
 1. [Définition](definitions.md) 
-2. Corps de texte
-
+2. Fonctionnement et avantages
+3. Applications
 
 
 **Bold** and _Italic_ and `Code` text
