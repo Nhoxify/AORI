@@ -2,23 +2,23 @@
 
 [Accueil](index.md)
 1. **Définition**
-2. Ma deuxième classe
-      1. Une sous-classe
-      2. Une seconde sous-classe
-      3. ...
+2. [Fonctionnement et avantages](Fonctionnement.md)
+3. [Applications](Applications.md)
+
+    
 
 
 ## Définition
 
 
 
-### **_1er document_**
+### **__1er document__** 
 
 #### SMART LIGHTING ALLIANCE (SLA). "Lifi (light fidelity)" [en ligne]. In *Smart Lighting Alliance (SLA) - La communication par la lumière*. 2016 (consulté le 24 mai 2019). Disponible sur le Web : http://smartlightingalliance.org/definition-life-light-fidelity/
 
 ![Définition de la SLA](https://zupimages.net/up/19/21/ln1o.png)
 
-### **_2ème document_**
+### **__2ème document__**
 
 #### CORDIER, Alix et VANDEPOPELIERE, Romain. "Le Li-Fi" [en ligne]. In *ULB –Faculté des Sciences –Département de Physique. Printemps des Sciences 2017 Exposition des Sciences Bruxelles*. 2017 (consulté le 24 mai 2019). Disponible sur le Web : https://sciences.brussels/printemps/download/dossier_peda_2017/le-li-fi.pdf
 
