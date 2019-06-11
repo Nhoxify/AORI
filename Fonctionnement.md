@@ -23,6 +23,6 @@ ECHOS DU NET. "Le Li-Fi remplacera-t-il le WiFi ?" In *Echos du Net | Comparatif
 KYOS. "Le LiFi : explication, avantages et contraintes". In *Kyos*. [consulté le 30 mai 2019]. Disponible sur le Web : <https://www.kyos.ch/le-lifi/> 
 
 
-![Schéma de Kyos](https://zupimages.net/up/19/24/wtcb.png)
+![Schéma de Kyos](https://image.noelshack.com/fichiers/2019/24/2/1560244673-kyos2.png)
 
      
